@@ -1,0 +1,5 @@
+asyncio
+pyppeteer
+json
+pyppeteer-install
+requests
